@@ -1,0 +1,21 @@
+{
+  "name"    : "VRClaim",
+  "description": "Virtual Reality images for claims",
+  "version" : "0.1.0",
+  "main"    : "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+   "express": "4.8.0",
+   "body-parser": "1.17.1",
+   "node-json-db": "0.7.3",
+   "uuid": "3.0.1",
+   "connect-busboy": "0.0.2"
+ },
+ "license": "Open Source",
+ "author" : {
+   "name" : "Oscar Salvador Macias Tiscareño",
+   "email" : "salvador.macias.91@gmail.com"
+  }
+}
